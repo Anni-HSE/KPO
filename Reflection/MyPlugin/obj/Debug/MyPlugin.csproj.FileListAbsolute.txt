@@ -1,0 +1,8 @@
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\MyPlugin\bin\Debug\MyPlugin.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\MyPlugin\bin\Debug\MyPlugin.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\MyPlugin\bin\Debug\PluginInterface.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\MyPlugin\bin\Debug\PluginInterface.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\MyPlugin\obj\Debug\MyPlugin.csproj.CoreCompileInputs.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\MyPlugin\obj\Debug\MyPlugin.csproj.CopyComplete
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\MyPlugin\obj\Debug\MyPlugin.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\MyPlugin\obj\Debug\MyPlugin.pdb

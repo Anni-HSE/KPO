@@ -1,0 +1,13 @@
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\bin\Debug\TestControlsApplication.exe.config
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\bin\Debug\TestControlsApplication.exe
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\bin\Debug\TestControlsApplication.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\bin\Debug\LabControls.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\bin\Debug\LabControls.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\obj\Debug\MyApp.csprojAssemblyReference.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\obj\Debug\TestControlsApplication.Form1.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\obj\Debug\TestControlsApplication.Properties.Resources.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\obj\Debug\MyApp.csproj.GenerateResource.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\obj\Debug\MyApp.csproj.CopyComplete
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\obj\Debug\TestControlsApplication.exe
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\TestControlsApplication\obj\Debug\TestControlsApplication.pdb

@@ -1,0 +1,16 @@
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\bin\Debug\Task 1.exe.config
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\bin\Debug\Task 1.exe
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\bin\Debug\Task 1.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\bin\Debug\PluginInterface.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\bin\Debug\PluginInterface.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\MyApp.csprojAssemblyReference.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\Task_1.AboutBox.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\Task_1.Canvas.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\Task_1.CanvasSize.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\Task_1.MainForm.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\Task_1.Properties.Resources.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\MyApp.csproj.GenerateResource.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\MyApp.csproj.CopyComplete
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\Task 1.exe
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Task 1\obj\Debug\Task 1.pdb

@@ -1,0 +1,13 @@
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\bin\Debug\TestControlsApplication.exe.config
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\bin\Debug\TestControlsApplication.exe
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\bin\Debug\TestControlsApplication.pdb
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\TestControlsApplication.Properties.Resources.resources
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\TestControlsApplication.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\TestControlsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\TestControlsApplication.exe
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\TestControlsApplication.pdb
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\bin\Debug\LabControls.dll
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\bin\Debug\LabControls.pdb
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\TestControlsApplication.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\TestControlsApplication.Form1.resources
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\TestControlsApplication\obj\Debug\TestControlsApplication.csproj.CopyComplete

@@ -1,0 +1,6 @@
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\PluginInterface\bin\Debug\PluginInterface.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\PluginInterface\bin\Debug\PluginInterface.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\PluginInterface\obj\Debug\PluginInterface.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\PluginInterface\obj\Debug\PluginInterface.pdb

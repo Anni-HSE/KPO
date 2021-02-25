@@ -1,0 +1,10 @@
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\LabControls\bin\Debug\LabControls.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\LabControls\bin\Debug\LabControls.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\LabControls\obj\Debug\LabControls.ColorPicker.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\LabControls\obj\Debug\LabControls.ColorTextBox.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\LabControls\obj\Debug\LabControls.FilePathSelect.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\LabControls\obj\Debug\LabControls.Properties.Resources.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\LabControls\obj\Debug\MyControls.csproj.GenerateResource.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\LabControls\obj\Debug\MyControls.csproj.CoreCompileInputs.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\LabControls\obj\Debug\LabControls.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Controls\LabControls\obj\Debug\LabControls.pdb

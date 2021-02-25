@@ -1,0 +1,9 @@
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlackWhitePlugin\bin\Debug\BlackWhitePlugin.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlackWhitePlugin\bin\Debug\BlackWhitePlugin.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlackWhitePlugin\bin\Debug\PluginInterface.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlackWhitePlugin\bin\Debug\PluginInterface.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlackWhitePlugin\obj\Debug\BlackWhitePlugin.csprojAssemblyReference.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlackWhitePlugin\obj\Debug\BlackWhitePlugin.csproj.CoreCompileInputs.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlackWhitePlugin\obj\Debug\BlackWhitePlugin.csproj.CopyComplete
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlackWhitePlugin\obj\Debug\BlackWhitePlugin.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlackWhitePlugin\obj\Debug\BlackWhitePlugin.pdb

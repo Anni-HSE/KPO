@@ -1,0 +1,11 @@
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\bin\Debug\Brightness.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\bin\Debug\Brightness.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\bin\Debug\PluginInterface.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\bin\Debug\PluginInterface.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\obj\Debug\Brightness.csprojAssemblyReference.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\obj\Debug\Brightness.BrightnessForm.resources
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\obj\Debug\Brightness.csproj.GenerateResource.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\obj\Debug\Brightness.csproj.CoreCompileInputs.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\obj\Debug\Brightness.csproj.CopyComplete
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\obj\Debug\Brightness.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\Brightness\obj\Debug\Brightness.pdb

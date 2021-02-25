@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\bin\Debug\LabControls.dll
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\bin\Debug\LabControls.pdb
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.dll
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.pdb
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.FilePathSelect.resources
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.ColorPicker.resources
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.Properties.Resources.resources
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.ColorTextBox.resources
+C:\Users\Aleksandr\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.csprojAssemblyReference.cache

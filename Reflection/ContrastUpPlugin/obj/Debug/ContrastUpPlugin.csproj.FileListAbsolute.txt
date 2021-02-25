@@ -1,0 +1,9 @@
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\ContrastUpPlugin\bin\Debug\ContrastUpPlugin.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\ContrastUpPlugin\bin\Debug\ContrastUpPlugin.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\ContrastUpPlugin\bin\Debug\PluginInterface.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\ContrastUpPlugin\bin\Debug\PluginInterface.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\ContrastUpPlugin\obj\Debug\ContrastUpPlugin.csproj.CoreCompileInputs.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\ContrastUpPlugin\obj\Debug\ContrastUpPlugin.csproj.CopyComplete
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\ContrastUpPlugin\obj\Debug\ContrastUpPlugin.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\ContrastUpPlugin\obj\Debug\ContrastUpPlugin.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\ContrastUpPlugin\obj\Debug\ContrastUpPlugin.csprojAssemblyReference.cache

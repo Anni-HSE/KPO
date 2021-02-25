@@ -1,0 +1,9 @@
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlurPlugin\bin\Debug\BlurPlugin.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlurPlugin\bin\Debug\BlurPlugin.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlurPlugin\bin\Debug\PluginInterface.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlurPlugin\bin\Debug\PluginInterface.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlurPlugin\obj\Debug\BlurPlugin.csprojAssemblyReference.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlurPlugin\obj\Debug\BlurPlugin.csproj.CoreCompileInputs.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlurPlugin\obj\Debug\BlurPlugin.csproj.CopyComplete
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlurPlugin\obj\Debug\BlurPlugin.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BlurPlugin\obj\Debug\BlurPlugin.pdb

@@ -1,0 +1,9 @@
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BrightnessUpPlugin\bin\Debug\BrightnessUpPlugin.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BrightnessUpPlugin\bin\Debug\BrightnessUpPlugin.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BrightnessUpPlugin\bin\Debug\PluginInterface.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BrightnessUpPlugin\bin\Debug\PluginInterface.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BrightnessUpPlugin\obj\Debug\BrightnessUpPlugin.csproj.CoreCompileInputs.cache
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BrightnessUpPlugin\obj\Debug\BrightnessUpPlugin.csproj.CopyComplete
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BrightnessUpPlugin\obj\Debug\BrightnessUpPlugin.dll
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BrightnessUpPlugin\obj\Debug\BrightnessUpPlugin.pdb
+D:\OneDrive - НИУ Высшая школа экономики\Конструирование ПО\Reflection\BrightnessUpPlugin\obj\Debug\BrightnessUpPlugin.csprojAssemblyReference.cache
